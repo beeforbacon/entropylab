@@ -1,0 +1,1 @@
+Visual review for EntropyLab PR #969, source commit cc4d757. Each image shows before (left) and after (right). Desktop: 1440×900. Phone: 390×844. UI fixtures contain 12 insecure test keys and must never receive funds. Screenshots show public test labels, not private values.
